@@ -1,0 +1,1000 @@
+
+# 1月1日-1月7日
+- 谷歌可能正在准备Bard的付费版本，Bard Advanced可能会有类似GPTs的东西
+- OpenAI GPTs 商店将于本周推出
+- Perplexity 在 B 轮融资中筹集了 7360 万美元，目前估值为 5.2 亿美元
+
+# 1月8日-1月21日
+- 微软推出了 Copilot 专业版计划,现在有针对消费者的定制 Copilot GPT 和扩展的业务选项。每月 20 美元的 Copilot Pro 订阅可让您在 Microsoft 365 应用程序中获得 AI 支持的功能
+- 扎克伯格正式宣布在AI上下重注，Meta将会致力于实现AGI
+- Stability AI将要发布新版的SVD视频生成模型以及图像模型
+- Stability AI 发布了 Stable Code 3B，可以在没有 GPU 的笔记本电脑上运行
+
+# 1月22日-1月28日
+- 你可以在ChatGPT的输入框中通过@来唤醒GPTs
+- Google发布LUMIERE视频生成和编辑模型
+- HayGen发布可以实时对话的数字人产品
+- POE 拉新政策：拉一个新用户奖励 50 美元！
+- 值得一用的 AI 应用
+    - Recraft：生成式 AI 设计工具，帮你创建平面内容和矢量标志，[体验地址](https://www.recraft.ai/)
+    - 
+# 1月29日-2月4日
+- ARC 浏览器发布三个基于 AI 的能力
+    - 搜索强化，一键直达你搜索的视频而不需要你再过滤
+    - 一键总结搜索结果
+    - 总结网页内容形成摘要
+- 谷歌给 Bard 发布了大量的更新
+    - 支持生成图片
+    - 支持更多国家和语言
+    - 更名为 Gemini
+- 亚马逊推出 AI 购物助理Rufus
+- Stability AI 发布了 SVD 模型的 1.1 版本和 Web 应用
+- Meta 开源了 Code Llama 70B
+
+# 2月5日-2月18日
+- Open AI 发布 Sora 视频生成模型
+- 谷歌发布Gemini 1.5 Pro和开放 Ultra 1.0模型
+- Open AI 取消了 GPT-4 Turbo 的每日调用限制并将总的调用限制提高了一倍
+- ChatGPT 增加了记忆功能及控制选项
+- 一些值得一试的 AI 应用
+    - Ollama 上线 Windows 预览版，[下载地址](https://ollama.com/download/windows)
+    - Galileo AI：自动生成UI设计稿，[在线体验](https://www.usegalileo.ai/explore)
+
+# 2月19日-2月29日
+- 谷歌开源Gemma 2B和7B两个大语言模型
+- Stable Diffusion 3 图像生成模型发布
+- 剪映海外版CapCut推出了文字生成视频功能，每人每天可以免费生成五次
+- Stability AI 官方的 SVD 视频生成平台公测了
+- 字节发布了一个用类似 SDXL Turbo 的模型SDXL-Lightning，只需几步即可生成高质量的 1024px 图像
+- 
+# 3月1日-3月8日
+- Claude 3 发布，超过 GPT4
+    - 据说有超强智力
+        - 证明是 2 小时，把一个博士搞了一年的学术研究给做出来了
+        - 感兴趣看这个：[全球最强模型Claude 3颠覆物理/化学！2小时破解博士一年实验成果，网友惊呼：科研不存在了](https://mp.weixin.qq.com/s/Z54kt9wmM29iO8zLrlW1Rw)
+        - 个人感觉还不是大概率事件，不过也有可能临界点已经到了……
+    - 三个版本，大杯Sonnet可以免费体验，超大杯要加钱，中杯还没出
+        - Claude 比 GPT 早期还严格，说封就封
+        - 旗帜鲜明的干中国 IP，聊“中国事儿”都可能被干
+        - 尤其针对氪金用户……
+- 一个媲美 Kimi 的工具
+    - 海螺问问：[海螺问问AI](https://hailuoai.com/)
+    - 来自 MiniMax，正在融仅次于 Kimi 的大规模融资
+    - 模型智商水平非常高，适合聪明的大家使用
+    - 语音功能一绝！
+- 一个帮你找 SD 模型的工具
+    - 网址：[Find Stable Diffusion models for your desired image style](https://www.findsd.art/find-sd)
+    - 查询范围是 C 站，确保你能正常访问，确保你打开了安全模式……
+- OOTD虚拟穿搭测试工具
+    - 体验地址：https://ootd.ibot.cn
+    - 开源地址：https://github.com/levihsu/OOTDiffusion
+- 剪映旗下的 Dreamina 值得一用
+    - 地址：https://www.capcut.cn/ai-tool/platform
+- 秘塔发布 AI 搜索工具，没用的体验一下
+    - 地址：https://metaso.cn/
+- 阿里的 EMO 模型示例视频，关注一下
+# 3月9日-3月15日
+- 360 的智能浏览器：https://browser.360.cn/ai/
+- 360 的智能搜索引擎：https://www.sou.com/
+- 沃顿商学院发布了一些列非常棒教师/学生提示词
+    - 原文：[Prompt Library — More Useful Things: AI Resources](https://www.moreusefulthings.com/prompts)
+    - 归藏翻译版：[宝藏内容-沃顿商学院给教师和学生的提示词库 | AIGC Weekly](https://quail.ink/op7418/p/bao-zang-nei-rong-wo-dun-shang-xue-yuan-gei-jiao-shi-he-xue-sheng-de-ti-shi-ci-ku)
+- 阿里的万相实验室上新了一个AI平台绘蛙
+    - 地址：[绘蛙AI_AI电商营销内容创作平台](https://www.ihuiwa.com/)
+    - 还没完全开放，我也在等邀请码
+- 根据文档内容自动命名文件的项目
+    - 项目地址：[https://github.com/Brandon-c-tech/PDFs-AI-rename](https://github.com/Brandon-c-tech/PDFs-AI-rename)
+    - 延伸：第六章第四节（这哥们也是拿 AI 写的)
+- 一个超牛的爬虫插件
+    - 需要网络支持……
+    - Easy Scraper ：https://easyscraper.com/
+# 3月16日-3月22日
+- Kimi 上线了收藏夹功能，里面有好多好提示词
+- Dreamina 快收钱了，记得去体验
+    - 即将上线视频功能和 ComfyUI（可能）
+- 剪映正在内测视频翻译功能，水平很高
+- Stable Diffution 团队好几个核心成员离职了，要黄……
+- xAI 开源了他们的大模型 Grok ，3000 亿参数，比大部分国内产品要牛逼
+    - 普通人不用试图跑了
+    - 国内的 AI 很快会升级，因为用的阿帕奇-2 协议，可以二改商用
+# 3月23日-3月29日
+- 新 AI 工具跃问一定要用一下，堪比 Kimi（甚至胜过）
+    - 地址：[跃问](https://stepchat.cn/chats/new)
+    - 背景信息：老板姜大昕（前微软副总裁，亚研院研究员）
+- Suno 要用一下
+    - 地址：[https://app.suno.ai/](https://app.suno.ai/)
+    - 所有用过的人，震撼级别 = ChatGPT
+    - 现在需要 🪜了
+- StabilityAI 的进一步崩塌：CEO 离职了
+- 一个不错的 AI 应用场景：
+    - Gatekeep：一个新型的文本转视频 AI，专注与教学
+    - 它可以通过文本提示将数学、物理问题转换成视频内容
+    - 猜测：大模型生成公式，把公式渲染成视频
+    - 体验：http://discord.gg/36PTEgY892
+# 3月30日-4月12日
+- Google 发布的 Gemini 1.5 Pro 可以解析视频（45min）
+- StabilityAI 发布 Stable Audio 2.0 [Just a moment...](https://stableaudio.com/generate)
+- DALL·E 可以编辑生成的图片了
+- 重点关注玩法：AI 搜索
+    - 本质上是 RAG 技术的联网版
+    - 开源项目：
+        - https://github.com/miurla/morphic
+        - https://github.com/nashsu/FreeAskInternet
+# 4月13日-4月19日
+- Stable Diffusion 3 API 发布
+    - 文档地址：https://platform.stability.ai/docs/api-reference#tag/Generate/paths/~1v2beta~1stable-image~1generate~1core/post
+- LLaMA 3 发布
+    - 申请下载：https://llama.meta.com/llama-downloads/
+    - huggingface：https://huggingface.co/chat/
+- 通义开源了一个混剪工具
+    - 开源：https://github.com/alibaba-damo-academy/FunClip
+    - 在线体验：https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary
+- 一个交互特有意思的 AI 工具
+    - https://flowith.io/
+- Kimi 非官方网页插件
+    - 地址： https://kimi.tools
+    - 打开会自动跳转到谷歌应用商店
+# 4月20日-4月26日
+- ChatGPT 正在测试长记忆模式
+    - 很重要的一个更新，很多过去的做法需要调整
+        - ❌换个窗口就重新开始
+        - ❌AI 对你一无所知
+    - 目前看起来还非常不成熟，卡成🐶
+    - 但可能被很多国产 AI 模仿，值得留意
+- Adobe Photoshop 升级了 Firefly 3
+    - 更强了，以及增加了很多能力
+    - 详细：https://www.adobe.com/products/photoshop/ai.html
+    - Kimi 摘要版：https://kimi.moonshot.cn/share/colnhv2vk6gebhfm0va0
+- 5 个 LLaMA3 中文微调模型
+    - https://zhuanlan.zhihu.com/p/693782375
+    - 中文社区：https://llama.family/
+- 不花钱的大模型 API 
+    - 来自 LLM-Red-Team：https://github.com/LLM-Red-Team
+    - 国产AI 几乎都已被逆向，批判性使用，合规性不好判断
+- Moonshot API 支持 Tool use 模式了
+    - 约等于让 AI 学会“使用”工具
+    - 几乎所有大模型都增加了这个功能
+    - 本质上，就是让 AI 输出指定结构的内容（来自预设的要求），然后调用其他工具，把返回的结果作为上下文连同开始的问题一起再发给大模型（编辑模式）
+    - 类似工作流或者扣子里的插件
+- 扣子支持用 Kimi 大模型了
+- 腾讯发布了一个「小微助手」应用
+    - 下载通道已关闭
+    - 类似 uTools
+# 4月27日-5月10日
+- 通义开源了 Qwen1.5-110B 模型，千亿参数
+    - 项目地址：https://qwenlm.github.io/zh/blog/qwen1.5-110b/
+- DeepSeek 开源了 DeepSeek-V2，2360 亿参数
+    - 开源版：236B 参数，MoE 结构160 位“专家”，128K 上下文
+        - 项目地址：https://github.com/deepseek-ai/DeepSeek-V2
+    - 在线版：236B 参数，160 位“专家”，32K 上下文
+        - 产品地址：https://www.deepseek.com/
+        - API 非常便宜！！！写代码非常牛逼！！！
+- 百度在搜索结果里增加了智能体
+    - 非常好的流量入口，比 GLM 等有价值
+    - 入口：https://agents.baidu.com/center
+    - SEO：100+人使用时门槛
+- HeyGen 上线了一个instant-highlight功能
+    - 上传视频，自动筛选“亮点”
+    - 地址：https://app.heygen.com/instant-highlight
+- Kimi 上线了Kimi+功能，智能体还未开放创建
+    - 直接用，或者在聊天中@唤起 
+- 生数团队发布了 Vidu，可以生成 16 秒 1080P 视频
+    - 清华系团队
+    - 仅对企业开放，要申请
+# 5月11日-5月17日
+- OpenAI 发布了 GPT-4o 模型
+    - 输出更快，比 3.5 还快！
+    - 识图能力更强
+    - 可以识别视频了（基于 Python + GPT-4V 模型）
+    - 有了桌面端应用（仅限 Mac M 芯片）
+- Google 也发布了一些升级
+    - 升级了 Gemini 1.5 Pro，即将推出 Flash 模型
+    - 发布了跟 GPT-4o 差不多的视频对话功能
+- 一个开源多模态模型，图像识别直逼 GPT-4V
+    - 中文介绍：https://zhuanlan.zhihu.com/p/675877376
+    - 体验地址：https://internvl.opengvlab.com
+- Kimi 可以“氪金”了
+    - 最低 5.2，可以不休息用 4 天
+    - 最高 399，一年
+    - 文心一言：658 一年
+- 一众手机都表示要支持大模型
+    - 魅族新系统增加 AI 搜索、AI 接听
+    - 小米大语言模型备案
+    - 华为Pura 70系列产品“AI消除”很“硬核”
+- 字节“发布”豆包大模型
+    - 其实就是之前的云雀
+- 几个有意思的开源项目：
+    - 给多平台接入 AI 客服：https://github.com/cs-lazy-tools/ChatGPT-On-CS
+        - 微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台
+        - 应该是不收钱的
+    - 视频换脸：https://github.com/facefusion/facefusion
+        - 你看到的大部分跳舞的小姐姐，一脸假那种都是它做的
+        - 要不就是 Roop https://github.com/s0md3v/roop
+    - 给故事换漫画的模型：https://github.com/HVision-NKU/StoryDiffusion
+    - 一个 AI 驱动的爬虫：https://github.com/VinciGit00/Scrapegraph-ai
+        - 我还没体验，据项目说，自然语言描述就可以
+    - 一个 Obsidian 智能助手：https://github.com/wwaa321/kiko-ai-assistant
+        - 可以关联你的 Obsidian 对话
+        - 作者打包了一个 Win 应用，理论上 Mac 也能跑？没测试
+# 5月18日-5月24日
+- 各大模型厂商 API 降价
+    - 截止到现在的基本情况
+        - DeepSeek 最早卷价格，输入百万 token 1 元，输出 2 元
+        - 豆包跟进，最“垃圾”的版本 3 毛百万 token（但高级版本要十几块）
+        - 通义千问，最“长上下文”版本，5 毛百万 token（应该是 RAG 实现的超长文本）
+        - 百度、混元、星火的最“垃圾”版本直接免费
+    - 什么意义？
+        - 对 ToB 市场没啥意义，技术水平不行，用的企业越多，反馈越差
+        - 对我们，搞点小 AI 应用，很有意义
+    - 各大模型 API 价格汇总
+        - [飞书云文档](https://bytesmore.feishu.cn/wiki/ABvZw2Sz4iiYGWkKtdccTXYFnWe)
+- ChatGPT 更新了数据分析功能的交互
+    - 可以关联谷歌和微软文档
+    - 表格变成可交互状态，可以针对选中的单元格提问
+    - 生成的图表可交互
+- 微软开发者大会，发布了一系列高级玩儿
+    - 发布了 Copilot + PC 
+    - 发布 Windows Recall：记录所有操作，AI查询
+    - 发布了 Cocreator：实时生成和编辑 AI 图像
+    - 发布了 Live Captions：支持40多种语言实时翻译
+- 新应用和项目
+    - 百川发布 App 版本，百小应
+    - 跃问内测 App 版本，公众号扫码排队（体验一般般）
+    - 网易天音发布音乐创作平台，体验还不错
+    - MiniCPM-Llama3-V 2.5 可以在手机上运行的多模态模型，又是超越 GPT-4V
+    - 一个体验不错的 Obsidian 插件 AI Zhipu
+# 5月25日-5月31日
+- 本周最炸裂当属 ChatTTS（文本转语音）项目
+    - 宣传片：https://www.bilibili.com/video/BV1zn4y1o7iV/（这个版本未开源）
+    - 项目地址：https://github.com/2noise/ChatTTS
+- StabilityAI 发布助手 Stable Assistant
+    - 免费体验 3 天，之后最低 9 美元/月 
+    - 文字、图片、视频、图像编辑
+    - 体验地址：https://stability.ai/stable-assistant
+- 阿里又发了一个“ README 开源”项目 ViViD 给视频换装
+    - 项目介绍：https://becauseimbatman0.github.io/ViViD
+    - 跟之前 EMO 一样，只显摆不开源
+- 腾讯开源了个“类 EMO ”项目，真开
+    - 项目地址：https://github.com/tencent-ailab/V-Express
+- ChatGPT 免费版本可以缩减版的 Plus 能力了
+    - 包括，数据分析（上传附件）、图片理解、GPT-4o
+- 有意思的新闻：普华永道成为 GPT 企业版的代理商
+    - 大概：汽车发明以后，之前做马夫培训的公司，成为汽车的代理商
+- 扣子支持 API 了
+    - 意味着，你可以在任何场景让你的BOT 发挥作用
+    - 高端玩家可以看看插件功能，真正意义上的功能定制
+- 一些新的 AI 应用和开源项目
+    - 腾讯发布了元宝 APP，同时升级了混元，可以搜索公众号文章
+    - khoj：一个关联你的个人笔记，回答、生成内容的本地 AI 机器人
+        - 项目地址：https://github.com/khoj-ai/khoj
+    - RAGAPP：一个据说可以很方便基于 RAG 搭建聊天机器人
+        - 确实不用写代码，Docker 部署
+        - 项目地址：https://github.com/ragapp/ragapp
+# 6月1日-6月7日
+- 字节推出了一个文本转语音模型 Seed-TTS
+    - 没开源，目前只给出了效果演示
+    - 详情：https://bytedancespeech.github.io/seedtts_tech_report/
+- 阿里发布 QWen2.0 开源模型
+    - 5种模型规模，包括0.5B、1.5B、7B、57B-A14B和72B
+    - 所有模型均稳定支持32K长度上下文；Qwen2-7B-Instruct与Qwen2-72B-Instruct可支持128K上下文
+    - 详情：https://qwen.readthedocs.io/zh-cn/latest/
+- 智谱开源 GLM-4-9B，API 也降价
+    - 模型：https://github.com/THUDM/GLM-4
+    - 降价：普遍降价一半左右（GLM-4 模型）
+    - Batch模式：本周日前免费，类似于“闲时用电”
+- 快手发布文生视频模型可灵
+    - 要排队，下载快影 APP
+    - 官网：https://kling.kuaishou.com/
+- AI 设计工具 Motiff（类似 Creatie）
+    - 官网：https://www.motiff.cn
+    - AI 生成 UI 实验功能，需排队：https://motiff.cn/motiff-lab
+# 6月8日-6月14日
+- 苹果发布会，发布了一系列 AI 相关能力
+    - “重新定义”AI：Apple Intelligence
+        - 内置写作工具，在各种文字输入场景提供 AI 写作辅助
+        - 内置图像工具，生成配图、草稿转图、生成 Emoji……
+        - 升级 Siri，更聪明的互动
+        - 跨应用的 AI 引入，自动化任务
+        - 隐私保护，但集成 ChatGPT……
+    - iPhone15 Pro 以上，其他设备 M1 以上
+- StabilityAI 开源 SD3 Medium 模型
+    - 20 亿参数，消费级设备也能跑了
+    - 模型下载：https://huggingface.co/stabilityai/stable-diffusion-3-medium
+- Luma 发布 DIT 视频生成模型 Dream Machine
+    - 注册可用，每月 30 条
+    - 对提示词的要求比较高，太简单的会很拉胯
+    - 图生视频很不错
+    - 地址：https://lumalabs.ai
+- Suno 上线音频输入功能
+    - Demo 超赞，但仅付费用户可用
+- 几个 AI 相关的新项目
+    - 视频翻译/配音/字幕提取翻译……
+        - 项目地址：https://github.com/jianchang512/pyvideotrans
+        - 官网：https://pyvideotrans.com/
+    - PDF 转 Markdown 格式，作为知识库好用
+        - 项目地址：https://github.com/VikParuchuri/marker
+# 6月15日-6月21日
+- 百度高管创业做了个 AI 搜索工具
+    - 网址：https://www.genspark.ai/
+    - 国内不能用，堪比Perplexity
+    - 融资 6000 万美金
+- Runway 发布了 Gen-3（公告式发布）
+    - 动作幅度变大了，增加了很多细节控制
+    - 目前应该还只有 Demo
+    - 详见：https://runwayml.com/blog/introducing-gen-3-alpha/
+- DeepSeek 发布 DeepSeek-Coder-V2
+    - 数学和编程能力介于最强闭源模型 GPT-4o 和 GPT-4-Turbo 之间
+    - 官网已实装
+    - 测试下来的“聪明之处”：让它改的时候，终于不重新写一遍了
+- Claude 发布了 Claude 3.5
+    - 各项能力超过 GPT-4o
+    - 已实装网页和 APP
+- 扣子支持发布到抖音评论区和抖音企业号了
+    - 需要 1 小时授权，还没体验
+    - 企业号应该是私信，个人号可以替你评论？
+- 应用和项目
+    - 微信输入法增加 AI 功能，按=唤醒回答
+    - 腾讯元宝升级
+        - 上下文 1000 万字
+        - 增加类似 GLM 的数据分析
+        - 可以在微信里把文件直接发给元宝小程序解析，链接也行
+    - 一个可以让 AI 根据参考图补齐涂抹部分的开源项目
+        - 地址：https://github.com/ali-vilab/MimicBrush
+        - ComfyUI 版本：https://github.com/AIFSH/ComfyUI-MimicBrush
+    - Hedra：一个照片+声音融合成视频的项目
+        - 地址：https://www.hedra.com/
+    - 知识库问答系统（AI 客服）
+        - 开源项目：https://github.com/1Panel-dev/MaxKB
+# 6月22日-6月28日
+- 豆包发布编程助手 MarsCode
+    - 地址：https://www.marscode.cn/
+    - 星火：https://iflycode.xfyun.cn
+    - 通义：https://tongyi.aliyun.com/lingma
+- 星火发布 4.0 版本，上线了一系列功能
+    - 智能体升级，增加了工作流，自定义能力非常多，以及全局变量超牛逼
+    - 增加一个「个人空间」的概念，有助于留存
+- Claude 的 Artifacts 可以在 ChatGPT 用了
+    - 地址：https://github.com/MichaelYuhe/Artifacts-for-ChatGPT
+    - 解压直接安装即可（限 Chrome）
+- 一个专门直播带货的大模型 Streamer-Sales
+    - 项目地址：https://github.com/PeterH0323/Streamer-Sales
+    - 演示地址：https://openxlab.org.cn/apps/detail/HinGwenWong/Streamer-Sales
+- figma 发布会发布了一些 AI 功能（期货）
+- ChatGPT客户端正式上线
+    - Mac 且 M 系列芯片
+    - 地址：https://openai.com/chatgpt/mac/
+- OpenAI 不让中国使用 API 问题
+- AI+Meme 图项目
+    - 地址：https://glif.app/glifs/clxv8wwhj0000b3f5shjgq3xy
+    - 可复刻：https://vectorvein.com/workspace/workflow/template/7ddef947f1504fababc5ccb3df2b107e
+# 6月29日-7月5日
+- Kimi 的 API 上线了上下文缓存功能
+- DeepSeek 支持 128K 上下文了，包括 API 接口，价格不变
+- 跃问推出万亿参数大模型 Step-2（未实装）
+    - 跃问的官网：https://www.stepfun.com/#step2
+- 知乎发布直答，AI 搜索类产品，主要回答来自知乎
+    - 地址：https://zhida.zhihu.com/
+    - 同类产品：https://metaso.cn/  https://thinkany.ai/zh 
+- 扣子支持发布到小程序
+    - 需要企业认证+备案
+    - 会覆盖原有小程序，H5 形式（Web-view）
+- 一些 AI 开源项目
+    - GPTPDF：把 PDF 转成 Markdown 项目
+        - 需要 GPT-4o接口
+        - 项目地址：https://github.com/CosmosShadow/gptpdf
+    - OmniParse：把各种文档转成结构化
+        - 支持文档、图片、图表、视频
+        - 项目地址：https://github.com/adithya-s-k/omniparse
+    - 硅基开源了一个数字人交互 SDK
+        - 包含 3 个男性形象和 11 个女性形象
+        - 可以接入大模型进行交互，不可商用，不可定制（后两者要付费）
+        - 项目地址：https://github.com/GuijiAI/duix.ai
+    - fish Speech：一个开源的语音 TTS 项目，很真人
+        - 体验地址：https://fish.audio/zh-CN/
+        - 项目地址：https://github.com/fishaudio/fish-speech
+# 7月6日-7月12日
+- 书生开源了InternLM-XComposer2.5
+    - 可以理解视频（视觉模型+更高的抽帧识别）
+    - 自带 CoT，擅长写长文+图文交错的文章
+    - 基于图像理解，可以写网页
+    - 项目地址：https://github.com/InternLM/InternLM-XComposer/blob/main/README_CN.md
+    - PS 书生悄摸做了好多模型：https://internlm.intern-ai.org.cn/
+- 阿里发布了一个语音模型 FunAudioLLM
+    - 识别语音（包括情绪+背景音），生成语音回复（支持增加情绪或克隆）
+    - Demo 地址：https://fun-audio-llm.github.io/
+    - 一个示例 App：https://github.com/FunAudioLLM/FunAudioLLM-APP
+- ControlNet 作者发布了新项目 PaintsUndo
+    - 输入图片，输出视频，“还原”绘画全过程
+    - 项目地址：https://github.com/lllyasviel/Paints-UNDO
+    - Demo 地址：https://lllyasviel.github.io/pages/paints_undo/
+- Claude 上线一个提示词优化/调试工具（限企业用户）
+    - 几个功能：
+        - 提供简单需求，模型生成优质提示词
+        - 提供一系列提示词，测试模型输出效果（批量、工作台式）
+    - 使用地址：https://console.anthropic.com/ （从域名看，就是个调试台）
+    - 官方介绍：https://www.anthropic.com/news/evaluate-prompts
+- 扣子新增创作者主页
+    - 显示创作者公开的所有智能体、插件和工作流
+    - 包含粉丝和推送系统
+- 可灵 AI 上线了网页端
+    - 有权限的账号被炒到 500+了，全网都在割韭菜，小心
+    - PC 端地址：https://klingai.kuaishou.com/
+- 阿里达摩院上线了视频创作平台寻光
+    - 故事版、角色管理、视频生成等一站式管理，内测排队中
+    - 官网：https://xunguang.damo-vision.com/
+- MiniMax 发布音乐生成模型 Music Generation
+    - 上传参考音乐和提示词，生成音乐
+    - 内测中：https://platform.minimaxi.com/document/Music Generation
+- Kimi 上线网页插件
+    - 在任意网页划选文字或直接唤醒 Kimi
+    - 下载：https://kimi.moonshot.cn/extension/download
+# 7月13日-7月26日
+- OpenAI 
+    - 发布了 GPT-4o mini，便宜、快且比 GPT-4 强
+    - 即将上线 SearchGPT，排队中
+- Stability AI 发布 SV4D 模型，通过一个视频生成 8 个角度的动态视频
+    - Demo：https://sv4d.github.io/
+    - 模型：https://huggingface.co/stabilityai/sv4d
+- Mistral AI 发布 Mistral Large 2
+    - 欧洲大模型公司
+    - 开源 1230 亿参数
+    - 模型：https://huggingface.co/mistralai/Mistral-Large-Instruct-2407
+- Bing 推出 AI 搜索功能（灰测）
+- 智谱
+    - 开源了视频理解大模型 CogVLM2-Video
+        - 在线体验：http://cogvlm2-online.cogviewai.cn:7868/
+        - 开源地址：https://github.com/THUDM/CogVLM2
+    - 上线视频生成功能
+        - 相当粗糙
+        - 内测申请秒过：https://chatglm.cn/video
+- 可灵开放内测，开启会员收费
+- 马斯克给 xAI 搞了 10 万张 H100 训练集群
+    - GPT-4 用了2.5 万张 A100
+- DeepSeek 的 API 接口更新，增加 json Output 等功能 https://platform.deepseek.com/api-docs/zh-cn/news/news0725/
+- 一些开源项目和模型
+    - 通义实验室 OutfitAnyone，换装开源项目：https://modelscope.cn/studios/DAMOXR/OutfitAnyone
+    - EmoLLM 心理健康大模型：https://github.com/SmartFlowAI/EmoLLM
+    - mem0为大模型增加记忆：https://github.com/mem0ai/mem0
+    - vozo 使用提示词“编辑”视频：https://www.vozo.ai/
+# 7月27日-8月2日
+- ChatGPT 开始面向部分 Plus 用户推送新的语音聊天 GPT-4o
+    - 对话语音模型更厉害一些
+    - 可以开启视频了
+- 苹果推送了18.1 beta 版，包含 Apple Intelligence
+    - iPhone 国人暂时无福，美区 ID + 手机地区 + 语言，15Pro 可用
+    - Mac 设备可参阅 zouxian 项目：https://github.com/CatMe0w/zouxian
+- Stability AI 发布 Stable Fast 3D 开源模型
+    - 1.5 秒把图片变成 3D 模型
+    - 论文：https://stable-fast-3d.github.io/
+    - 体验：stable-fast-3d
+- Runway 即将推出 Gen-3 Alpha Turbo 
+    - 比现在的Gen-3 Alpha 快 7 倍
+    - 说是会免费向用户开放
+- Meta 上线了 AI Studio 平台
+    - 可以搭建 AI Bot，在 ins 上跟粉丝对话（类似微博的 AI助理）
+    - 可以选择 ins 和 threads 的内容作为训练内容
+    - 限美国地区：[ai-studio](https://ai.meta.com/ai-studio/)
+- Vidu 开放，跟 Sora 采用相同的架构
+    - 生成速度很快，但是质量稍差一点
+    - 氪金可以有更长时长和次数
+- 扣子比赛：[扣子 - 文档中心](https://www.coze.cn/docs/guides/coze2408)
+- 一些 AI 项目
+    - openvlab 的diffree 项目，指令 PS，不改变原图
+        - 论文：[Diffree](https://opengvlab.github.io/Diffree/)
+        - 体验：[Diffree](https://huggingface.co/spaces/LiruiZhao/Diffree)
+    - 实时互动的流媒体数字人
+        - 项目完成度很不错，效果需要自己再调
+        - 地址：[GitHub - lipku/metahuman-stream: Real time interactive streaming digital human](https://github.com/lipku/metahuman-stream)
+    - 一站式开源高质量数据提取工具 MinerU
+        - 支持PDF/网页/多格式电子书提取
+        - 地址：https://github.com/opendatalab/MinerU
+# 8月3日-8月9日
+- 面壁智能 & 清华 NLP 实验室开源 MiniCPM-V 2.6，可在 iPad 上运行
+    - 水平超 GPT-4V ，可在移动设备运行
+    - 项目地址：MiniCPM-V
+    - 他们还开源了一个让 AI 帮你开发应用的虚拟软件公司 ChatDev | GitHub，通过多智能体协作帮你干活
+- DeepSeek 上线了缓存定价
+    - 命中缓存部分只要每百万 Token 1 毛
+    - 文章：https://mp.weixin.qq.com/s/zPz8U-F8PAovhG-FbAOzLA
+    - 文案特别好
+- 豆包上线音乐生成功能
+    - 歌词、主题、风格、音色都可自定义
+    - 地址：https://www.doubao.com/chat/music
+- Character.ai 卖身谷歌
+- 阿里云万网即将上线.ai域名
+    - 能注册基本上就能备案
+    - 目前新闻说开放了，但是还没法注册
+- 智谱开源了视频生成模型 CogVideoX-2B
+    - 推理需18GB显存，微调40GB显存，单张 A6000 可玩
+    - 开源地址：CogVideo
+- Canva（可画）国内版上线了魔力工作室
+    - 功能挺多，且比较落地，甚至包括把设计画板转成文字稿
+    - 需要高级版本：magic-home
+- 通义 APP 上线了一个把视频里的人物换成“任意”形象的功能
+    - 支持 4 个角色：机器人、孙悟空以及两个二次元形象
+    - 上传视频，选替换的角色，半小时转化完
+    - 在通义 APP-频道里体验
+- 一些AI开源项目&提效工具
+    - 书生开源的 AI 搜索项目Mindsearch
+        - 在线体验：mindsearch Demo 
+        - 开源地址：Mindsearch
+    - 使用大模型开发应用llamacoder
+        - 在线体验：llamacoder demo
+        - 开源地址：llamacoder
+    - 一张照片实时换脸直播 Deep-Live-Cam
+        - 支持输出画面到 OBS，就是吃配置
+        - 开源地址：Deep-Live-Cam
+    - 一个数学辅导应用 mathgptpro
+        - 地址：https://mathgptpro.com/
+        - 按使用此时收费
+    - 把 ComfyUI 工作流一键转成小程序卖 ComfyUI_Bxb
+        - bxb=变现宝
+        - 支持微信、抖音、H5，付费、分销都支持
+        - 很好的思路，智能体、提示词都可以参考
+        - 开源地址：ComfyUI_Bxb
+    - x 上爆火的AI吐槽应用
+        - 提供x的账号，就会抓取内容分析，吐槽非常“脏”且准……
+        - 地址：https://twitter.wordware.ai/
+        - 国内即刻版：https://jike-mirror.benn.app/
+    - 基于大模型的抠图工具鲜艺 AI 抠图
+        - 地址：https://kt.94xy.com/
+- 苹果 AI 部分应用的提示词“泄露”，可以学习
+    - 原文地址：apple-intelligence-instructions-macos-15-1-sequoia-beta
+# 8月10日-8月16日
+- xAI （马斯克的 AI 公司）发布 Grok 2
+    - 增加绘图功能（基于 FLUX）
+    - 两个版本Grok2 和 Grok2 mini
+    - 详细介绍：https://x.ai/blog/grok-2
+- Google 提前发布 Pixel9 手机，内置 AI 模型
+    - 拍照编辑（把人丝滑合并进照片里、人脸修正）
+    - Gemini Live 语音助手
+- Runway 的 Gen-3 Alpha Turbo 上线了
+    - 7 倍生成速度，价格是Gen-3 Alpha的一半
+    - 免费用户可试用
+- Claude 也支持缓存降价了
+- 快手上线了AI聊天助手 飞船（基于快意大模型）
+- 一些好玩的 AI 项目和产品
+    - VideoDoodles：给视频添加任意手绘 演示地址
+    - sherpa-onnx：多端部署多语言支持的语音识别、文字转语音项目
+    - 阿里云百炼 | LibLib | 吐司 都上线了 FLUX 模型
+# 8月17日-8月24日
+- MidJourney 上线了网页版，限时开启了免费 25 张图片
+    - 地址（免费权限关了）：https://midjourney.com/
+- 特别擅长生成文字（英文）、LOGO 的 Ideogramg 升级了 2.0
+    - 写实风格非常逼真，甚至可以设计网页 UI 了
+    - 体验：https://ideogram.ai/
+- 微软开源 Phi-3.5-vision 多模态模型
+    - 图像识别、OCR、短视频识别都不错（128K）
+    - 模型下载&部署：https://huggingface.co/microsoft/Phi-3.5-vision-instruct
+- 一些 AI 技术/项目
+    - 阿里团队发布了一个保持角色一致性的框架 UniPortrait
+        - 提示词 + 人脸照片 + 风格参考图片 —> 各种角色风格图片
+        - 地址：https://github.com/junjiehe96/UniPortrait
+        - Demo：https://huggingface.co/spaces/Junjie96/UniPortrait
+    - 清华团队发布了一个写长文的 Agent 技术 LongWriter
+        - 可以写一万字，其中 Agentwrite 的俩提示词可以看看
+        - 项目地址：https://github.com/THUDM/LongWriter
+    - 可以生成 3D 场景+角色的 Rendora
+        - 场景很不错，支持中文
+        - 地址：https://www.rendora.ai/
+        - 中文版：https://www.youyan3d.com/platform/template
+    - 快手可图团队在 Huggingface 上发了不少好玩的项目
+        - 换装：https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On
+        - 人相一致：https://huggingface.co/spaces/Kwai-Kolors/Kolors-FaceID
+# 8月25日-8月30日
+- Google 发布了一个 AI 游戏引擎 GameNGen
+    - 可以实时生成游戏，基于 Diffusion 扩散模型预测生成
+    - 论文地址：https://gamengen.github.io/
+- 智谱的新动作：
+    - 开源了CogVideoX-5B（之前是 2B）
+    - GLM-4-Flash 大模型 API 免费（128K）
+    - 上线了 GLM-4V-Plus，具备视频理解能力，即将开放 API（https://open.bigmodel.cn/）
+    - 类似 GPT-4o 的视频通话功能正在内邀（目前仅开放给媒体）
+- 阿里云开源视觉模型 Qwen2-VL
+    - 支持识别 20 分钟视频
+    - 项目主页：https://qwenlm.github.io/zh/blog/qwen2-vl/
+- 初创公司 Magic 发布了一个可以处理一亿上下文的 LTM-2-mini
+    - 官方博客地址：https://magic.dev/blog/100m-token-context-windows
+- 一些值得关注的项目/事件
+    - Claude 公布了他们的系统级提示词，并承诺持续更新
+        - 从提示词中可以看出 Claude 的无奈
+        - 地址：https://docs.anthropic.com/en/release-notes/system-prompts
+        - 格式 json —> xml —> Markdown
+    - Sony 开源项目 GenWarp 
+        - 提供一张图片，生成该图片其他视角的图像
+        - 开源地址：https://github.com/sony/genwarp
+# 8月31日-9月6日
+- MiniMax 上线视频生成和音乐创作功能
+    - 生成水平挺高的，跟 Sora 一样的架构，主体可以大幅度动
+    - 音乐：体验地址
+    - 视频：体验地址
+- 智谱清言的视频通话功能全量上线
+    - 技术一般，但是流量位，约等于 GPT 之前的对话功能
+- 零一万物开源了一个小参数代码生成模型 Yi-Coder
+    - 1.5B 和 9B 两个参数规模
+    - 开源地址
+- Claude 上线了企业版
+    - 500K 上下文
+    - 直接把 GitHub 仓库集成到 Claude
+    - 可以把内部各种文档集成到 Claude
+    - 官网介绍
+- 飞书发布会的多维表格 + AI 功能建议重点关注
+    - 一会实践会讲到
+- 文心一言更新，改名为文小言，4.0 免费1个月
+- 支付宝上线了一个支小宝，生活服务场景，产品经理们可以去体验一下
+- 昆仑万维（天工）上线 AI 音乐平台「音疯」，创作的歌可以卖 项目地址
+- 一些 AI 相关项目和思路
+    - 文档翻译项目 EZ-Work ，可以保留格式翻译文档：开源地址
+    - 上传任意照片生成证件照工具 HivisionIDPhotos ：开源地址 | 体验地址
+    - 字节搞了个贼牛逼的对口型项目 Loopy 表情非常丰富：项目演示
+# 9月7日-9月13日
+- OpenAI 发布了他们酝酿已久的模型 GPT-o1
+    - 目前发布了两个版本 o1-preview 和 o1-mini
+    - Plus 用户可用，1 周可以对话 30 次
+    - 增加了推理和调用工具能力，基于强化学习训练（最近的新范式 RL）
+    - 注意：因为模型自带了推理，所以之前的 CoT 可能会干扰模型的运行，越简单的提示越好，某种意义上，提示词可能正在变得不再重要（未被验证）
+- 面壁智能发布 MiniCPM 3.0（端侧）
+    - 支持调用工具和代码解释器，推理能力达到了 GPT-3.5 水平，还发布了一个 RAG 套件
+    - 项目地址｜模型下载
+- Vidu 更新参考一致性功能
+    - 上传一张主体照片，生成的视频几乎可以做到角色一致
+    - Vidu 官网
+- Suno推出翻唱功能
+    - 提供一首歌，设置曲风，不改变原歌曲节奏翻唱
+    - Suno 官网
+- 一些好玩的 AI 项目
+    - Mini-Omin：一个可以边思考边说话的 AI 模型 开源地址
+    - Google 发布了 NoteBookLM，一种文档学习/存储的新范式 产品地址
+# 9月14日-9月20日
+- 一众厂牌齐刷刷更新 AI 视频模型
+    - 通义万相上线视频生成
+    - 智谱清影增加多尺寸、质量更佳/速度更快 选项
+    - 可灵模型升级，上线运动笔刷（划线设定对象移动轨迹）功能
+- 人工智能生成合成内容标识办法（征求意见稿）
+    - 所有 AI 生成的内容，必须有显性和隐性的标识
+    - 提供网络信息内容传播平台服务的服务提供者应当采取措施，规范生成合成内容传播活动。
+- GPT-o1 提高消息上限
+    - o1-mini 的限制从每周 50 条消息提高到每天 50 条消息
+    - o1-preview 的限制从每周 30 条消息增加到每周 50 条消息
+- HeyGen 推出 Avatar 3.0
+- Office 套系大更新：
+    - Excel 中集成 Python（比宏命令屌 X倍）
+    - 新增 Copilot Pages，一个 AI 协助、多人协作的在线云文档（网页）
+    - 还有一个 Agents 功能，可以自动化处理一些流程（体感不好用）
+- 一些不错的 AI 项目
+    - Follow：一个 RSS 客户端，RssHub 作者的新应用，增加了 AI 总结功能，内测中需邀请码
+    - Awsome_Dify：通过 DSL 分享的 Dify 工作流，值得学习
+    - product_hunt_daily：基于 GitHubAction 每天自动生成当日榜单，在线版
+# 9月21日-9月27日
+- ChatGPT 上线了高级语音模式
+    - 面相 Plus 用户
+    - 跟之前的语音对话是完全不同的技术，之前是生成文本再朗读，现在是直接生成语音
+    - 新的高级语音模式，可是做口语练习了
+    - 多邻国，可汗学院
+- OpenAI 的 CTO 离职
+    - 创始团队，只剩下 Sam 了
+- Notion 升级了 NotionAI
+    - AI 助手增加了跨平台（需关联）数据提取和理解能力
+    - AI 助手增加了生成流程图和图表的能力
+- Google NotebookLM 增加了对音频文件和YouTube视频的支持
+- Meta AI 发布 Llama 3.2 多模态 AI 模型
+    - 多模态，性能约等于 GPT-4o mini
+    - 可在边缘设备和移动端运行
+- HuggingChat 上线 Mac 客户端
+    - 交互挺有意思，但还不支持跑本地模型
+    - 仅支持 Mac 端 下载地址
+- 豆包发布了一堆大模型：
+    - 视频生成大模型两个版本，PixelDance & Seaweed，申请地址：火山引擎
+    - 以及：音乐模型，同声传译模型、文生图2.0模型、豆包通用模型pro、语音合成模型……模型总览
+- 值得关注的 AI 相关项目
+    - Facefusion 升级，增加了面部编辑功能（表情、年龄、性别……）项目地址 | 一键安装（这个工具很硬核）
+    - 阿里发布了一个“视频换人”项目MIMO，README 开源……演示论文 | 项目地址
+    - 微信事业部和香港城市大学发布一个根据手绘草图生成视频的项目LVCD，暂未开源，演示地址
+    - 一个 AI 扩图项目，图片+提示词就可以按比例扩图，体验地址 
+    - PDF2Audio：仿 Google NotebookLM 项目，把 PDF 转成博客 项目地址 | 在线体验（自填 API Key）
+    - Json4u：JSON 结构化、可视化，项目地址 | 在线使用
+# 9月28日-10月11日
+- ChatGPT 增加 Canvas 画布
+    - 可以认为是一个你和 AI 协同编辑的文档
+    - 你可以划选与 AI 沟通、编辑
+- Meta 发布 MovieGen AI 视频/音频生成模型
+    - Transformer 架构，非扩散模型
+    - 两个模型，比商业模型甚至厉害
+    - 支持文本描述编辑视频
+    - 没说开源，估计不会开了
+- Kimi、ChatGLM 上线类似 o1 的推理模式
+    - kimi 的启用方式是对话框 /进入探索 模式
+    - GLM 是 AI 搜索智能体
+    - 我估计，只是一个搜索意图增强，模型没变
+- 诺贝尔物理和化学奖，都有 AI 相关基础技术学者获奖
+    - 并不是因为近两年的 AI 爆发，贡献都发生在数十年前
+    - 因为算力和算法的提升，他们开始发挥作用
+- 扣子更新了主界面，看起来是向 AI 应用开发方向迁移
+    - 未来可能会「付费」模板
+    - 扣子正在沟通把智能体发布到 Kimi+
+- 过去两周热门项目
+    - 从谷歌 NotebookLM 自动生成博客发展出来的一批“玩具”
+        - idoubi 的 podlm
+        - 开源版：podlm-public
+    - AI 编程工具 bolt
+        - 地址：bolt
+        - 开源：bolt
+        - 新玩法：在 GitHub 项目前增加 bolt.new 可以直接加载代码库
+    - Cursor 9 月份的付费企业客户数，超过了 OpenAI
+        - 还得做足够牛的应用
+        - 还得用 Claude
+# 10月12日-10月18日
+- 李彦宏内部会议几个关键信息
+    - 不会做 Sora
+    - 搜索的所有交互和未来的规划都以智能体为主
+- Adobe 把视频生成嵌入 PR
+    - 可以直接在 Adobe Premiere 中延长生成某一段视频填补镜头之间的间隙、或者延长镜头。
+    - 也可以单击并拖动音频剪辑的末端，以延长生成环境声音，以平滑音频编辑。
+- Adobe 在一场活动中演示了一个叫 Harmonize 的功能
+    - 一键 P 图，适配图片中的光影
+Adobe新功能.mp4
+- Kimi 在内测语音通话功能
+    - 类似 GPT 的高级语音模式
+    - 可以克隆自己的声音
+    - 感觉有点笨
+- ChatGLM 也上线了类似 GPT 的 Canvas 文档功能
+    - 点击对话后的编辑，可以把 AI 生成的内容写入文档
+    - 仅此而已，难用的一匹……
+- ChatGPT 发布 Win 客户端
+    - 目前仅限 Plus、企业和教育用户，美区微软应用中心下载
+    - 跟网页相比没啥区别……
+- 值得关注的 AI 工具
+    - 腾讯问卷上线了 AI 问卷功能，发送需求直接生成问卷
+    - 阿里妈妈团队发布 FLUX.1-Turbo-Alpha ，更高效、高质量的蒸馏提炼 LoRA Huggingface | 魔塔社区
+    - Meta 发布了他们测试 GenMovie 视频模型的测试集，其中包含 1000 条提示词，非常值得学习
+# 10月19日-10月25日
+- Claude 升级了 Sonnet3.5 模型， API 接口增加 Computer Use 功能
+    - 新模型的推理能力超过o1
+    - Computer Use 功能类似常规 API 的 Tool Use，让大模型操作电脑
+    - 非常牛逼炸裂，强烈建议去看官方的文档和示例
+        - 官网文档：computer-use
+        - 官方 Demo地址：computer-use-demo
+    - Claude 上线“数据分析”功能，上传csv表格后会给自动给出建议
+        - 基于 js 分析和可视化数据图表（写网页）
+- Ideogram 上线了一个可以做海报的 Canvas
+    - 在无限画布上各种创建、修改、重绘海报
+- StabilityAI 开源了 SD 3.5
+- Perplexity 上线了两个功能和 Mac 客户端
+    - 内部知识搜索：关联内部知识库，搜索内外部知识提供答案
+    - 团队空间：团队协作，自定义 AI 助理
+    - Mac 客户端：限美区 AppStore 账号
+- 智谱发布了 AutoGLM，可以操控手机
+    - 仅支持安卓端，限定 8 个应用，其他都不行
+    - 依然属于早期项目，你看到的宣传稿件大概夸大了 50 倍
+    - 申请地址：AutoGLM小助手
+- Adobe 演示了一个把 2D 图片转 3D 的功能 Project Turntable
+ProjectTurntable.mp4
+- iOS 18.2 beta 版上线了大量 Apple Intelligent 功能
+    - Siri 直接绑定 ChatGPT
+    - 可以在多个写作场景换出生成内容
+- 一些 AI 项目
+    - Claude 开源了一个数据分析工具：financial-data-analyst
+    - 一个帮助筛选简历+视频面试的AI 工具：Applicant AI
+    - 腾讯上线了一个叫ima的AI集成工具：https://ima.qq.com/
+    - 基于 Claude Computer Use 的开源项目：agent.exe
+    - ComfyUI 推出一键安装包，需要排队 comfy waitlist
+# 10月26日-11月2日
+- 智谱清言上线情感语音模型 GLM-4-Voice
+    - 端到端语音模型
+    - 能够直接理解和生成中英文语音，进行实时语音对话，并且能够遵循用户的指令要求改变语音的情感、语调、语速、方言等属性
+    - 项目地址：GLM-4-Voice
+- ChatGPT 上线专门的搜索功能
+    - 生成的页面不再是简单的文字，会有专门的 UI，如股票、天气等
+    - 对常规问题，确切说是把原来隐藏的搜索开放了控制权，体验后没啥……
+    - Plus 和 Team 直接有，免费用户逐步开放
+- Claude 推出客户端，Win 和 Mac 都有
+    - 地址：download
+    - Mac 增加了快捷键，体验跟网页一样（甚至不如网页，比如不能直接粘贴图片）
+- Claude 上线 PDF 提取分析功能
+    - 可以识别 PDF 文本及图片、图表
+    - 最多 100 页
+    - API 接口也支持：API 文档
+- Github 推出 Spark AI工具
+    - 类似 bolt.new，可以直接生成代码+演示
+    - 介绍视频 | 排队地址
+- GitHub Copilot 支持 Anthropic、Google 和 OpenAI 的模型
+- 一些应用
+    - 美团妙刷 AI 小程序小火一把
+    - Google 推出一个学习工具 Learn About：Learn About
+        - 会非常详细的为你解释各种概念，使用各种互动方法，提供学习测试
+        - 限美国 IP 地址
+    - Monica 发布了 Code 辅助工具 官方地址
+# 11月3日-11月8日
+- 腾讯开源了一系列大模型
+    - 混元 Large 大模型 | 官网
+        - 总参数量约389B，激活参数量约52B ，上下文长度达256k
+    - 混元-3D模型 | 官网
+        - 文生、图生 3D
+        - 支持快速单图生3D，10s内完成端到端生成，包括mesh，texture提取
+- Fish Audio 开源了端到端语音模型 Fish Agent V0.1 3B
+    - 可以实现即时克隆，上传一段参考音频即可
+    - 在线体验 | 开源地址
+- FLux 1.1 Pro Ultra 发布，可出 4K 图片
+    - 像素加 4 倍但生成速度没变 10s 一张图
+    - 4 毛钱一张图
+    - 在线体验 | 在线体验
+- Grok 上线了 API 调用
+    - 兼容 OpenAI 和 Anthropic 的 API SKD Base_url 换成https://api.x.ai/v1
+    - 公测期间每个月 25 美元额度
+    - 开发文档 | 注册账号
+- 值得关注的 AI 项目&工具
+    - 一个专门生成服装的 FLux LoRA，基于 H&M 的数据集训练 | 模型地址
+    - 一个基于 AI 自从处理文案生成视频的开源项目 项目地址 | 在线体验
+    - Cursor Rules 收集了很多非常棒的约束提示词 项目地址
+# 11月9日-11月15日
+- 字节发布了一个图片编辑模型（工具）SeedEdit
+    - 可以自然语言编辑图片，演示效果还不错，实战不好（因为我自然语言不行）
+    - 项目地址  | 在线演示 | 豆包即梦可体验（限 AI 生成图片后编辑）
+- 字节之前发布的视频生成模型，在即梦实装了
+    - 之前发布的对口型技术，也在即梦实装了
+    - 体验地址
+- 阿里开源了 Qwen2.5-Coder-32B 代码模型
+    - 0.5B~32B 五个版本
+    - 代码能力超过 GPT-4o，逼近 Claude
+    - 开源地址 | 在线体验
+- 通义千问上线了类似 Claude 的 artifacts 功能，实时写代码、预览
+    - 写完的网页、应用可以分享
+    - 比如这个
+- 智谱上线了企业级的智能体平台
+    - 可以创建对话和文本生成两类应用
+    - 搭建体验跟扣子差不多
+    - 在线体验
+- 值得体验的 AI 应用
+    - Windsurf：介于 Bolt.new 和 Cursor 的 AI 代码工具
+    - Claude-Thinking：让 Claude 像o1一样思考的浏览器插件，来自一位 17 岁的高中生
+    - PDFMathTranslate：不改变排版的 PDF翻译工具，Python 的，无界面
+    - 302.AI：开源了他们所有的工具代码，里面的提示词都值得看一看
+    - accio：阿里面向海外推出的 B2B 采购搜索AI应用
+# 11月16日-11月22日
+- 千问上线了 Qwen2.5-Turbo，100 万 Token 上下文
+    - 专注长文本处理，100 万 Token 约等于150 万字
+    - 关键是快且便宜：100 万 Token 耗时 1 分钟左右，3 毛钱
+    - 在线体验 | 项目介绍
+- Perplexity 推出全新 AI 驱动购物助手，可以在结果直接下单购买
+    - 同时支持“以图搜图”
+- DeepSeek 上线推理模型 R1-Lite
+    - 结果一般，但推理思考过程超级值得学习
+    - 网页端可以直接体验，API 还没上
+- Kimi 推出 k0-math 模型
+    - 数学计算和推理能力很强，但无法用公式表达的几何题没法做（没有眼）
+    - 还没正式上线
+- FLux 上线了一堆工具包
+    - FLUX.1 Fill 图片修复、高清重绘等
+    - FLUX.1 Depth ：深度控制，保持绘画结构不变修改细节
+    - FLUX.1 Canny ：边缘控制，类似 ControlNet
+    - FLUX.1 Redux：改变图片风格甚至重构
+# 11月23日-11月29日
+- 智谱更新了 AutoGLM，上线 GLM-PC
+    - 今天发布会做了一些升级，可以跨 APP 操作了，通过智能体申请
+        - 项目介绍：https://www.zhipuai.cn/news/144
+    - GLM-PC（牛牛）可以通过 Agent 控制电脑
+        - 内测明年 Q1 逐步开放
+        - 官方网站：https://cogagent.aminer.cn/home
+- 跃问上线了视频生成功能
+    - 最长 10s，已全面开放
+    - 体验地址：https://yuewen.cn/videos
+- Kimi 正在内测视频生成功能
+    - 灰度用户每天可生成 100 秒视频
+    - 灰度，没找到入口
+- 360 上线了个纳米搜索，各种大杂烩
+    - 基础的 AI 搜索功能
+    - 分析结果生成播客、数字人视频（APP 端）
+- 阿里开源 QwQ-32B-Preview 推理模型
+    - 详细介绍 | 在线体验
+- 阿里开源了一个数字人项目
+    - 照片 + 声音 + 手势，就可以生成数字人
+    - 项目地址：https://github.com/antgroup/echomimic_v2
+- 扣子上线了应用开发模式
+    - 可以搭建前端网页应用
+    - 与智能体并行，基于工作流、数据库来运行
+- Claude 上线了自定义回复能力
+    - 默认三种回复风格，可以自定义提示词控制
+- ComfyUI 上线了 Win 和 Mac 客户端，可以一键“部署”
+    - Windows 需要 NVIDIA 显卡，macOS目前只有Apple silicon
+    - 官方直接给开源了https://github.com/Comfy-Org/desktop
+    - 类似其他一键安装包，自动帮你装各种依赖
+- Claude 开源了一个 MCP 协议，让 AI 可以更方便的读取数据
+    - 直白版：构建了一个“中间服务商”：读取解析加密私有数据，提交给 AI 来使用
+        - 确保数据安全
+        - 方便开发，不需要自己搭各种服务
+    - 项目介绍 | 项目地址
+- OpenAI 的 Sora API 泄露
+    - 3 小时候就关闭了……
+- 值得关注的工具
+    - picmenu ：上传菜单，帮你生成可视化的菜品，已开源，建议学学提示词
+    - watermark-removal：一个去水印工具，效果超群
+    - MagicQuill：支付宝发的一个重绘模型，重回效果还挺不错的，在线体验
+# 11月30日-12月6日
+- OpenAI 开启连续 12 天直播发布新产品
+    - 已发布：o1正式版，200 美元每月
+    - 即将发布（猜测）
+        - Sora
+- 字节发布可以生成中文的绘画模型2.1
+    - 可以生成不同风格的中文
+    - 直接控制的中文显示效果非常棒
+    - 未控制区域依然是扭曲……
+    - 即梦、豆包已经可用了
+- 谷歌发布世界模型 Genie 2，可一键生成3D游戏
+    - 可以自然语言描述，也可以基于图片生成
+    - 只有介绍文档：点击查看
+- 李飞飞团队发布空间智能模型，跟 Genie 2 差不多
+    - 上传图片，即可 2D 转 3D，可操作交互
+    - 预览地址
+- 腾讯上线混元视频生成模型，会开源
+    - 已经在元宝 APP 上线，企业可以通过腾讯云接入（都需要申请）
+    - 没试，不知道水平，文生视频已经玩腻了……
+    - 官方网站
+- 生成式 AI 应用发展报告的几个数据：
+    - 有 3.5 亿人表示自己听说过生成式人工智能产品
+    - 有 2.3 亿人表示自己使用过生成式人工智能产品
+# 12月7日-12月13日
+- ChatGPT 发布了几个新功能
+    - 3）Sora 上线，Plus 用户每月可生成 50 条，Pro 用户不限量
+    - 4）Canva 功能全量，处理文档、写代码等，可以执行 Python 程序
+    - 5）iPhone + ChatGPT
+    - 6）高级语音模式+圣诞老人音色+视频对话
+- DeepSeek 上线了联网搜索功能
+    - 模型更新到了 V2.5，V2 版本收官
+    - 推荐两篇文章：文章一 | 文章二
+- Google 发布了 Gemini 2 Flash
+    - 多模态输入输出，能记住 10 分钟的视频
+    - 专门针对 Agent 做了模型调优设计
+    - 发布了类似贾维斯的浏览器控制工具
+    - 速度非常快，几乎可以共享屏幕帮你处理问题
+    - —> 2025 年模型会卷硬件控制（AutoGLM、Computer-Use）
+- 智谱 GLM-4V-Flash 多模态模型免费
+- Meta 开源了 LLaMA 3.3，700 亿参数媲美 4000 亿参数的 3.1
+- Chrome 浏览器最新版本增加了一些 AI 功能
+    - 智能摄像头：可以提取、翻译页面
+    - 智能标签：根据网页内容自动做标签组
+    - 控制台AI：可以改 HTML 和样式，处理控制台报错（需改为英语）
+- 值得一试的 AI 工具
+    - 语鲸：快速读文章的 AI 工具，多文速读对比&概要定位来源
+    - Youmind：一款随时搜集、整理灵感的 AI 工具，类似腾讯的ima（玉伯的新产品）
+    - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)：一个收集了很多 AI 工具的 awesome 合集（学提示词）
+# 12月14日-12月20日
+- OpenAI 本周发布的功能
+    - 11）ChatGPT 的客户端可用于更多应用连接了，需要 Plus 及以上
+    - 10）美国地区可以给 GPT 打电话聊天或者 WhatsApp 发消息，每人每月限时 15 分钟
+    - 9）API 升级，包括 o1的 API、实时语音交互 API
+    - 8）搜索功能介绍
+- Anthropic 发布了一篇关于 Claude “开智”的研究论文
+    - Claude 在训练的时候，会假装自己被训练了，但不监控它的时候又“做回自己”
+    - 论文地址
+- Anthropic 认为 2025 年会是 Agent 的机会，发布了一篇综述文章
+    - 其中对 Agent 和应用的介绍挺好的
+    - 推荐阅读
+- Google 发布 Gemini 2 Flash Thinking 模型
+    - 展示推理思考过程，同时保持 Flash 的速度
+    - 竞技场测评超过 o1
+    - 网友测评似乎容易过度思考而崩掉（或许是因为又复杂、又快导致的）
+    - 可以在 Google AI Studio 体验
+- Google 发布 Veo 2 视频模型，帮 Sora 实现了它自己吹了但没做到的🐂🍺
+    - 4K 画质，可延长到几分钟
+    - 真·懂物理世界，细节和动作很细致
+    - 需要排队，且在美国
+- 江苏教育厅发文要求深化人工智能辅助教师教学
+    - 鼓励高校在教师备课、教学辅导、作业批阅、教研分析等方面充分应用人工智能技术
+    - AI 的应用拓客，央国企事业单位是最佳方向，互联网公司不是
+    - 详细报道看这里
+- 豆包发布了视觉理解模型
+    - 炒价格
+- Kimi 发布了视觉推理模型
+    - 可以“看见”了，所以可以解几何题
+- 值得一试的 AI 项目&应用
+    - tldraw发布了一个画布应用，类似 Dify/Coze 的工作流
+    - Google 发布的whisk不用提示词，三张图片（主题、场景、样式）就可以出图（需在美国）
+# 12月21日-12月27日
+- Deepseek 发布 V3 模型
+    - 开源地址 | 网页端已实装
+    - 更低的算力和资源消耗，更强的能力
+    - 自测对齐了 GPT-4o和 Claude Sonnet
+- 值得一用的 AI 应用&项目
+    - Coze 新增了一个测评功能，思路值得借鉴
+        - 题目 List —> 智能体返回 —> AI 测评
+        - 测评提示词自定义
