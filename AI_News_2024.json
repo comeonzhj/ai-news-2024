@@ -1,0 +1,203 @@
+[
+    {
+        "month": "1月",
+        "keywords": ["谷歌", "OpenAI", "Perplexity", "微软", "Meta", "Stability AI"],
+        "overview": "1月，AI行业迎来多项重要更新，包括谷歌可能推出Bard的付费版本，OpenAI GPTs商店上线，以及Perplexity完成B轮融资。微软推出了Copilot专业版计划，Meta宣布将致力于实现AGI，Stability AI发布了新版SVD视频生成模型和Stable Code 3B。",
+        "big_news": [
+            "谷歌可能正在准备Bard的付费版本，Bard Advanced可能会有类似GPTs的东西",
+            "OpenAI GPTs 商店将于本周推出",
+            "Perplexity 在 B 轮融资中筹集了 7360 万美元，目前估值为 5.2 亿美元",
+            "微软推出了 Copilot 专业版计划，现在有针对消费者的定制 Copilot GPT 和扩展的业务选项",
+            "扎克伯格正式宣布在AI上下重注，Meta将会致力于实现AGI",
+            "Stability AI将要发布新版的SVD视频生成模型以及图像模型",
+            "Stability AI 发布了 Stable Code 3B，可以在没有 GPU 的笔记本电脑上运行"
+        ],
+        "awesome_AI_App": [
+            "Recraft：生成式 AI 设计工具，帮你创建平面内容和矢量标志，[体验地址](https://www.recraft.ai/)"
+        ]
+    },
+    {
+        "month": "2月",
+        "keywords": ["谷歌", "OpenAI", "亚马逊", "Stability AI", "Meta"],
+        "overview": "2月，谷歌和OpenAI分别发布了Gemini 1.5 Pro和Sora视频生成模型，OpenAI还取消了GPT-4 Turbo的每日调用限制。亚马逊推出了AI购物助理Rufus，Stability AI发布了SVD模型的1.1版本，Meta开源了Code Llama 70B。",
+        "big_news": [
+            "Open AI 发布 Sora 视频生成模型",
+            "谷歌发布Gemini 1.5 Pro和开放 Ultra 1.0模型",
+            "Open AI 取消了 GPT-4 Turbo 的每日调用限制并将总的调用限制提高了一倍",
+            "ChatGPT 增加了记忆功能及控制选项",
+            "谷歌给 Bard 发布了大量的更新，支持生成图片，支持更多国家和语言，更名为 Gemini",
+            "亚马逊推出 AI 购物助理Rufus",
+            "Stability AI 发布了 SVD 模型的 1.1 版本和 Web 应用",
+            "Meta 开源了 Code Llama 70B"
+        ],
+        "awesome_AI_App": [
+            "Ollama 上线 Windows 预览版，[下载地址](https://ollama.com/download/windows)",
+            "Galileo AI：自动生成UI设计稿，[在线体验](https://www.usegalileo.ai/explore)"
+        ]
+    },
+    {
+        "month": "3月",
+        "keywords": ["Claude 3", "Kimi", "Stability AI", "MiniMax", "Meta"],
+        "overview": "3月，Claude 3发布，据称其智力超过GPT-4。Kimi上线了收藏夹功能，Stability AI的CEO离职，MiniMax发布了音乐生成模型。Meta开源了LLaMA 3.2多模态AI模型。",
+        "big_news": [
+            "Claude 3 发布，超过 GPT4",
+            "Kimi 上线了收藏夹功能，里面有好多好提示词",
+            "StabilityAI 的进一步崩塌：CEO 离职了",
+            "MiniMax 发布音乐生成模型 Music Generation",
+            "Meta AI 发布 Llama 3.2 多模态 AI 模型"
+        ],
+        "awesome_AI_App": [
+            "海螺问问：[海螺问问AI](https://hailuoai.com/)",
+            "Find Stable Diffusion models for your desired image style：[网址](https://www.findsd.art/find-sd)",
+            "OOTD虚拟穿搭测试工具：[体验地址](https://ootd.ibot.cn)",
+            "剪映旗下的 Dreamina：[地址](https://www.capcut.cn/ai-tool/platform)",
+            "秘塔发布 AI 搜索工具：[地址](https://metaso.cn/)"
+        ]
+    },
+    {
+        "month": "4月",
+        "keywords": ["谷歌", "Stability AI", "Meta", "OpenAI", "DeepSeek"],
+        "overview": "4月，谷歌发布了Gemini 1.5 Pro，Stability AI发布了Stable Audio 2.0，Meta开源了LLaMA 3，OpenAI发布了GPT-4o模型，DeepSeek开源了DeepSeek-V2。",
+        "big_news": [
+            "Google 发布的 Gemini 1.5 Pro 可以解析视频（45min）",
+            "StabilityAI 发布 Stable Audio 2.0 [Just a moment...](https://stableaudio.com/generate)",
+            "DALL·E 可以编辑生成的图片了",
+            "LLaMA 3 发布，[申请下载](https://llama.meta.com/llama-downloads/)",
+            "OpenAI 发布了 GPT-4o 模型",
+            "DeepSeek 开源了 DeepSeek-V2，2360 亿参数"
+        ],
+        "awesome_AI_App": [
+            "通义开源了一个混剪工具：[开源](https://github.com/alibaba-damo-academy/FunClip)",
+            "一个交互特有意思的 AI 工具：[https://flowith.io/](https://flowith.io/)",
+            "Kimi 非官方网页插件：[地址](https://kimi.tools)"
+        ]
+    },
+    {
+        "month": "5月",
+        "keywords": ["OpenAI", "谷歌", "DeepSeek", "百度", "Kimi"],
+        "overview": "5月，OpenAI发布了GPT-4o模型，谷歌升级了Gemini 1.5 Pro，DeepSeek上线了缓存定价，百度在搜索结果中增加了智能体，Kimi上线了Kimi+功能。",
+        "big_news": [
+            "OpenAI 发布了 GPT-4o 模型",
+            "Google 升级了 Gemini 1.5 Pro，即将推出 Flash 模型",
+            "DeepSeek 上线了缓存定价",
+            "百度在搜索结果里增加了智能体",
+            "Kimi 上线了Kimi+功能，智能体还未开放创建"
+        ],
+        "awesome_AI_App": [
+            "HeyGen 上线了一个instant-highlight功能：[地址](https://app.heygen.com/instant-highlight)",
+            "生数团队发布了 Vidu，可以生成 16 秒 1080P 视频"
+        ]
+    },
+    {
+        "month": "6月",
+        "keywords": ["苹果", "Stability AI", "Luma", "Suno", "百度"],
+        "overview": "6月，苹果发布了AI相关能力，Stability AI开源了SD3 Medium模型，Luma发布了DIT视频生成模型Dream Machine，Suno上线了音频输入功能，百度高管创业做了个AI搜索工具。",
+        "big_news": [
+            "苹果发布会，发布了一系列 AI 相关能力",
+            "StabilityAI 开源 SD3 Medium 模型",
+            "Luma 发布 DIT 视频生成模型 Dream Machine",
+            "Suno 上线音频输入功能",
+            "百度高管创业做了个 AI 搜索工具"
+        ],
+        "awesome_AI_App": [
+            "视频翻译/配音/字幕提取翻译……[项目地址](https://github.com/jianchang512/pyvideotrans)",
+            "PDF 转 Markdown 格式，作为知识库好用[项目地址](https://github.com/VikParuchuri/marker)"
+        ]
+    },
+    {
+        "month": "7月",
+        "keywords": ["OpenAI", "Stability AI", "Mistral AI", "智谱", "DeepSeek"],
+        "overview": "7月，OpenAI发布了GPT-4o mini，Stability AI发布了SV4D模型，Mistral AI发布了Mistral Large 2，智谱开源了视频理解大模型CogVLM2-Video，DeepSeek发布了DeepSeek-Coder-V2。",
+        "big_news": [
+            "OpenAI 发布了 GPT-4o mini，便宜、快且比 GPT-4 强",
+            "Stability AI 发布 SV4D 模型，通过一个视频生成 8 个角度的动态视频",
+            "Mistral AI 发布 Mistral Large 2",
+            "智谱 开源了视频理解大模型 CogVLM2-Video",
+            "DeepSeek 发布 DeepSeek-Coder-V2"
+        ],
+        "awesome_AI_App": [
+            "通义实验室 OutfitAnyone，换装开源项目：[https://modelscope.cn/studios/DAMOXR/OutfitAnyone](https://modelscope.cn/studios/DAMOXR/OutfitAnyone)",
+            "EmoLLM 心理健康大模型：[https://github.com/SmartFlowAI/EmoLLM](https://github.com/SmartFlowAI/EmoLLM)"
+        ]
+    },
+    {
+        "month": "8月",
+        "keywords": ["谷歌", "Stability AI", "Meta", "智谱", "阿里"],
+        "overview": "8月，谷歌发布了AI游戏引擎GameNGen，Stability AI发布了Stable Fast 3D开源模型，Meta上线了AI Studio平台，智谱开源了CogVideoX-5B，阿里开源了视觉模型Qwen2-VL。",
+        "big_news": [
+            "Google 发布了一个 AI 游戏引擎 GameNGen",
+            "Stability AI 发布 Stable Fast 3D 开源模型",
+            "Meta 上线了 AI Studio 平台",
+            "智谱 开源了CogVideoX-5B",
+            "阿里云开源视觉模型 Qwen2-VL"
+        ],
+        "awesome_AI_App": [
+            "书生开源的 AI 搜索项目Mindsearch：[在线体验](mindsearch Demo)",
+            "使用大模型开发应用llamacoder：[在线体验](llamacoder demo)"
+        ]
+    },
+    {
+        "month": "9月",
+        "keywords": ["OpenAI", "面壁智能", "Vidu", "Suno", "Meta"],
+        "overview": "9月，OpenAI发布了GPT-o1模型，面壁智能发布了MiniCPM 3.0，Vidu更新了参考一致性功能，Suno推出了翻唱功能，Meta发布了MovieGen AI视频/音频生成模型。",
+        "big_news": [
+            "OpenAI 发布了他们酝酿已久的模型 GPT-o1",
+            "面壁智能发布 MiniCPM 3.0（端侧）",
+            "Vidu 更新参考一致性功能",
+            "Suno推出翻唱功能",
+            "Meta 发布 MovieGen AI 视频/音频生成模型"
+        ],
+        "awesome_AI_App": [
+            "Mini-Omin：一个可以边思考边说话的 AI 模型 [开源地址](https://github.com/Mini-Omin/Mini-Omin)",
+            "Google 发布了 NoteBookLM，一种文档学习/存储的新范式 [产品地址](https://notebooklm.google.com/)"
+        ]
+    },
+    {
+        "month": "10月",
+        "keywords": ["Claude", "Ideogram", "Stability AI", "Perplexity", "智谱"],
+        "overview": "10月，Claude升级了Sonnet3.5模型，Ideogram上线了可以做海报的Canvas，Stability AI开源了SD 3.5，Perplexity上线了两个功能和Mac客户端，智谱发布了AutoGLM。",
+        "big_news": [
+            "Claude 升级了 Sonnet3.5 模型， API 接口增加 Computer Use 功能",
+            "Ideogram 上线了一个可以做海报的 Canvas",
+            "Stability AI 开源了 SD 3.5",
+            "Perplexity 上线了两个功能和 Mac 客户端",
+            "智谱发布了 AutoGLM，可以操控手机"
+        ],
+        "awesome_AI_App": [
+            "Claude 开源了一个数据分析工具：[financial-data-analyst](https://github.com/ClaudeAI/financial-data-analyst)",
+            "一个帮助筛选简历+视频面试的AI 工具：[Applicant AI](https://applicant.ai/)"
+        ]
+    },
+    {
+        "month": "11月",
+        "keywords": ["字节", "阿里", "智谱", "Claude", "OpenAI"],
+        "overview": "11月，字节发布了图片编辑模型SeedEdit，阿里开源了Qwen2.5-Coder-32B代码模型，智谱更新了AutoGLM，Claude上线了自定义回复能力，OpenAI开启了连续12天直播发布新产品。",
+        "big_news": [
+            "字节发布了一个图片编辑模型（工具）SeedEdit",
+            "阿里开源了 Qwen2.5-Coder-32B 代码模型",
+            "智谱更新了 AutoGLM，上线 GLM-PC",
+            "Claude 上线了自定义回复能力",
+            "OpenAI 开启连续 12 天直播发布新产品"
+        ],
+        "awesome_AI_App": [
+            "[Windsurf](https://codeium.com/windsurf)：介于 Bolt.new 和 Cursor 的 AI 代码工具",
+            "[Claude-Thinking](https://github.com/richards199999/Thinking-Claude)：让 Claude 像o1一样思考的浏览器插件"
+        ]
+    },
+    {
+        "month": "12月",
+        "keywords": ["OpenAI", "DeepSeek", "谷歌", "智谱", "Meta"],
+        "overview": "12月，OpenAI发布了多个新功能，DeepSeek上线了联网搜索功能，谷歌发布了Gemini 2 Flash，智谱GLM-4V-Flash多模态模型免费，Meta开源了LLaMA 3.3。",
+        "big_news": [
+            "ChatGPT 发布了几个新功能",
+            "DeepSeek 上线了联网搜索功能，上线了 V3 版本",
+            "Google 发布了 Gemini 2 Flash",
+            "智谱 GLM-4V-Flash 多模态模型免费",
+            "Meta 开源了 LLaMA 3.3"
+        ],
+        "awesome_AI_App": [
+            "[语鲸](https://lingowhale.com/)：快速读文章的 AI 工具",
+            "[Youmind](https://youmind.ai/)：一款随时搜集、整理灵感的 AI 工具"
+        ]
+    }
+]
